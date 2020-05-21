@@ -5,7 +5,7 @@ import scala.util.matching.Regex
 /**
  * @author lcw332
  *         Date 2020-05-20-16:45
- *         Description:  
+ *         Description:  正则表达式
  **/
 object RegeDemo extends App {
 
